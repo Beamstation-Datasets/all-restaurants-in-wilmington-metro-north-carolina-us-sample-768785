@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Wilmington (Metro), North Carolina, spanning Wilmington. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Wilmington (Metro), North Carolina, US",
+  "export_job_id": "fb944716-56bc-481d-991a-35f3c848284a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 768785,
+  "location_name": "Wilmington, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-wilmington-metro-north-carolina-us-sample-768785",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/768785/beamstation_768785_restaurants-us-wilmingtonnc_SAMPLE_DIST.csv",
+  "sample_pct": 3.11,
+  "sample_records": 25,
+  "sample_sha256": "dfcb49aa3930a0bb019fe2857ff2e1fd4ce937bb664ee7d91b0985ac842d1b65",
+  "sample_size_bytes": 118102,
+  "total_records": 804,
+  "updated_at": "2026-03-31T16:25:01.246378+00:00"
+}
