@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8bc556dd-32b0-4d40-bb5e-4beb43545563",
+  "export_job_id": "4be884ac-4ffb-48a3-bce3-abe3ceb00290",
   "id_short": 768785,
-  "published_at": "2026-04-29T08:00:35Z",
+  "published_at": "2026-05-07T19:14:18Z",
   "repo_name": "all-restaurants-in-wilmington-metro-north-carolina-us-sample-768785",
   "sample_asset_name": "beamstation_768785_restaurants-us-wilmingtonnc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/768785/beamstation_768785_restaurants-us-wilmingtonnc_SAMPLE_DIST.csv",
-  "sample_records": 79,
-  "sample_sha256": "fed9e25b16d46743d2c9906751ed87cee5cadb26788b7d410cbedce3772e8086",
-  "sample_size_bytes": 304622,
-  "total_records": 794
+  "sample_records": 105,
+  "sample_sha256": "db6ae2ddfd66681fdf6387495521ec1fc266f1b17d34e9e2455223717c4c4e6b",
+  "sample_size_bytes": 391339,
+  "total_records": 1051
 }
